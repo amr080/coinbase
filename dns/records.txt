@@ -1,1 +1,554 @@
-x
+A Records (subdomains from dataset)
+
+Host	IP	ASN	ASN Name	Open Services (from DB)	RevIP	
+accounts.coinbase.com	104.18.42.198
+ASN:13335
+104.18.42.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+26	⋮
+api.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+api-n5e1.coinbase.com	52.195.63.186
+ec2-52-195-63-186.ap-northeast-1.compute.amazonaws.com	ASN:16509
+52.194.0.0/15	AMAZON-02
+Japan		1	⋮
+assets.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+beta.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+billing-systems.coinbase.com	104.18.217.36
+ASN:13335
+104.18.208.0/20	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+https: cloudflare
+title: 403 Forbidden
+cn: billing-systems.coinbase.com
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+https8443: cloudflare
+title: 403 Forbidden
+cn: billing-systems.coinbase.com
+⋮
+blog.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+buy.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+cdp.coinbase.com	104.18.5.242
+ASN:13335
+104.18.0.0/20	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+26	⋮
+cloud.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+console.cloud.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+comm.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+commerce.coinbase.com	104.18.40.248
+ASN:13335
+104.18.40.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+30	⋮
+api.commerce.coinbase.com	172.64.147.8
+ASN:13335
+172.64.147.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+49	⋮
+community.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+contentful.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+cohort-service.crypto.coinbase.com	104.18.34.76
+ASN:13335
+104.18.34.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+21	⋮
+custody.coinbase.com	172.64.153.104
+ASN:13335
+172.64.153.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+21	⋮
+api.custody.coinbase.com	172.64.145.53
+ASN:13335
+172.64.145.0/24	CLOUDFLARENET
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+61	⋮
+docs.custody.coinbase.com	104.18.42.203
+ASN:13335
+104.18.42.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+37	⋮
+developer.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+developers.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+dp.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+dynamic-assets.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+engineering.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+ethoca.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+events-service.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+exceptions.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+exchange.coinbase.com	172.64.151.78
+ASN:13335
+172.64.151.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+24	⋮
+api.exchange.coinbase.com	104.18.36.178
+ASN:13335
+104.18.36.0/24	CLOUDFLARENET
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+20	⋮
+status.exchange.coinbase.com	172.64.151.78
+ASN:13335
+172.64.151.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+24	⋮
+ws-feed.exchange.coinbase.com	104.18.36.178
+ASN:13335
+104.18.36.0/24	CLOUDFLARENET
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+20	⋮
+graphql.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+help.coinbase.com	104.18.16.131
+ASN:13335
+104.18.16.0/20	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+1000	⋮
+help-dev.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+help-staging.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+homebase.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+institutional.coinbase.com	34.226.36.53
+ec2-34-226-36-53.compute-1.amazonaws.com	ASN:14618
+34.224.0.0/12	AMAZON-AES
+United States	http: sfdcedge
+title: Error Page
+https: sfdcedge
+title: Error Page
+cn: a.sfdc-yfeipo.edge.salesforce.com
+o: Salesforce, Inc.
+https8443: sfdcedge
+title: Error Page
+cn: a.sfdc-yfeipo.edge.salesforce.com
+o: Salesforce, Inc.
+10	⋮
+international.coinbase.com	104.18.5.242
+ASN:13335
+104.18.0.0/20	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+26	⋮
+jpmorgan-callback.coinbase.com	3.94.219.244
+ec2-3-94-219-244.compute-1.amazonaws.com	ASN:14618
+3.80.0.0/12	AMAZON-AES
+United States	https: openresty/1.15.8.3
+cn: jpmorgan-callback.coinbase.com
+o: Coinbase, Inc.
+tech: OpenResty:1.15.8.3
+Nginx
+1	⋮
+links.coinbase.com	3.162.112.18
+server-3-162-112-18.iad61.r.cloudfront.net	ASN:16509
+3.162.112.0/21	AMAZON-02
+United States	http: CloudFront
+title: ERROR: The request could not be sati
+tech: Amazon CloudFront
+Amazon Web Services
+2	⋮
+lionheart.coinbase.com	44.217.85.90
+ec2-44-217-85-90.compute-1.amazonaws.com	ASN:14618
+44.192.0.0/11	AMAZON-AES
+United States	https: openresty
+title: 400 No required SSL certificate was
+cn: lionheart.coinbase.com
+o: Coinbase, Inc.
+tech: OpenResty
+Nginx
+2	⋮
+login.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+n5e2.coinbase.com	3.114.19.227
+ec2-3-114-19-227.ap-northeast-1.compute.amazonaws.com	ASN:16509
+3.112.0.0/14	AMAZON-02
+Japan		2	⋮
+ws-md.n5e2.coinbase.com	13.113.199.194
+ec2-13-113-199-194.ap-northeast-1.compute.amazonaws.com	ASN:16509
+13.112.0.0/14	AMAZON-02
+Japan		1	⋮
+nft.coinbase.com	172.64.152.51
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+47	⋮
+ota.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+pay.coinbase.com	104.18.35.15
+ASN:13335
+104.18.35.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+189	⋮
+prime.coinbase.com	172.64.152.196
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+33	⋮
+prime-dev.coinbase.com	172.64.152.241
+ASN:13335
+172.64.152.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+149	⋮
+MX Records
+
+5 alt2.aspmx.l.google.com	64.233.184.26
+wa-in-f26.1e100.net	ASN:15169
+64.233.184.0/24	GOOGLE
+United States			⋮
+1 aspmx.l.google.com	142.251.179.26
+pd-in-f26.1e100.net	ASN:15169
+142.251.179.0/24	GOOGLE
+United States			⋮
+10 alt3.aspmx.l.google.com	142.250.27.26
+ra-in-f26.1e100.net	ASN:15169
+142.250.27.0/24	GOOGLE
+United States			⋮
+10 alt4.aspmx.l.google.com	142.250.153.26
+ea-in-f26.1e100.net	ASN:15169
+142.250.153.0/24	GOOGLE
+United States			⋮
+5 alt1.aspmx.l.google.com	209.85.202.27
+dg-in-f27.1e100.net	ASN:15169
+209.85.202.0/24	GOOGLE
+United States			⋮
+NS Records
+
+sam.ns.cloudflare.com	108.162.193.141
+sam.ns.cloudflare.com	ASN:13335
+108.162.193.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+⋮
+sue.ns.cloudflare.com	108.162.192.145
+sue.ns.cloudflare.com	ASN:13335
+108.162.192.0/24	CLOUDFLARENET
+http: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+http8080: cloudflare
+title: Direct IP access not allowed
+tech: Cloudflare
+⋮
+TXT Records
+
+"cursor-domain-verification-tqme34=zHJPl1GeHjzl9e5kOqNqpcepA"
+"TSW_ODg1dGVyYXN3aXRjaA=="
+"slack-domain-verification=MlD3gzX7txujPKkmWsULE6w264DyKkTkxbT7nPTd"
+"1password-site-verification=2JYSQ7TWXVDP7DWPHTZRLBRESI"
+"stripe-verification=f66cbde9148f67d1bb992cfe5ae3fc1efa829c816b726b0bb28ff243325344dc"
+"google-site-verification=F0pv18D2VaKyH77hhpE9OZuDVipTi_YUGqKGzSOUfnQ"
+"google-site-verification=qyTrwiATuVJMBGXPOYPOr-NSYW90-idNJU7uTh6-v7Y"
+"atlassian-domain-verification=hDuZ4Ho1Rts/J4kaoxR9K2Qnywy2Uo+GV8bDIwXEsE4uovTo0vcL+8AVpI4+3j2V"
+"google-site-verification=gwL0hNTFdVrIO_MRAN6m07GJs7aZFGC-XkJcaq8We2s"
+"v=spf1 include:amazonses.com include:_spf.google.com -all"
+"miro-verification=790dc2010116c659230c25705d7a5358cd78d99b"
+"google-site-verification=5Vrsjlgs1uhwN5AU2Vg1TPuEBasNdhX3CgxtfTdXOQQ"
+"docusign=642eb6c3-8697-4ebd-8a51-a48a05713018"
+"MS=ms23710130"
+"dropbox-domain-verification=ap29irieph9f"
+"google-site-verification=8ww1MRKa0mZPc-WdoZ7YdL64qIE_2bJuIyIagaQqzFo"
+"apple-domain-verification=8HpWlON81jar5xva"
+"onetrust-domain-verification=f131f1d66b1b445cb8edc36b8edd78e8"
+"ahrefs-site-verification_cc6fbe8f6b26b9b07f97892536cda45b7ce7917b040baacf81facc14e820e887"
+"keybase-site-verification=UlVJ6_FMc2ceBGKC2cjhy8FF1iGw-iuvdc1WzRX7foU"
+"smartsheet-site-validation=kyRJbpapnk1ExowiffTo0f3Pc-9XKoSh"
+"applause-verification:4e8f0335-526a-4a52-8da4-f4ecedc931ef"
+"facebook-domain-verification=qbphvvib286cbvluswam0qypj99ofm"
+"google-site-verification=Mf-1A418PKg0c9t2nAaK4zjWv2A_N8uNGu078EWqCZc"
+"docusign=8ace657e-b7bc-4ed2-9cb3-8aa55e7d0597"
+"google-site-verification=veWhMcRP5-ISDr7tSAI7Mjh9ELqQ7ndOvbHY-xcsl9o"
+"mongodb-site-verification=hME8tDWzya9rzZbckAxwpiEiv12KX8Gd"
